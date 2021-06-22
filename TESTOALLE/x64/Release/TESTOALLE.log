@@ -1,0 +1,5 @@
+﻿  gra_gui.c
+C:\Users\majma\source\repos\TESTOALLE\TESTOALLE\gra_gui.c(1,10): fatal error C1083: Nie można otworzyć pliku dołącz: 'stdio.h': No such file or directory
+  lvl.c
+C:\Users\majma\source\repos\TESTOALLE\packages\Allegro.5.2.6\build\native\include\allegro5\base.h(23,13): fatal error C1083: Nie można otworzyć pliku dołącz: 'errno.h': No such file or directory
+  Generowanie kodu...
